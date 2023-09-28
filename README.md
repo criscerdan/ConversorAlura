@@ -2,6 +2,8 @@
 ![image](https://github.com/criscerdan/ConversorAlura/assets/108498876/6e7da63e-90a5-432c-ab77-646620ee23c4)
 
 Es un pequeño coversor de unidades, creado de manera distinta a la consigna del Challenge, ya que fue creado la interfaz grafica en javaFx
+Aclaracion los valores de conversion fueron tomados de principios de Agosto, ya que el valor actual de las divisas pueden variar como en el caso del Peso Argentino
+
 
 
 
