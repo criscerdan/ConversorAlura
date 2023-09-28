@@ -1,0 +1,5 @@
+com\alura\converter\PrimaryController.class
+module-info.class
+com\alura\converter\ConversorDeTemperatura.class
+com\alura\converter\App.class
+com\alura\converter\ConversorMonedas.class
